@@ -11,11 +11,8 @@ Available at the following link: [DanceSync Documentation](https://missgomezzz.g
 - Juan Pablo Vega
 - Ángela Gómez
 
-**Subject**
-Software's architectures 
+**Subject:** Software's architectures 
 
-**Last update**
-September 2026 
-
+**Last update:**September 2026 
 
 --- 
