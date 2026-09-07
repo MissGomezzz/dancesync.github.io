@@ -1,8 +1,6 @@
 # DanceSync
 
-This webpage shows the specifications for the DanceSync project. 
-
-Available at the following link: [DanceSync Documentation](https://missgomezzz.github.io/dancesync.github.io/)
+This webpage shows the specifications for the DanceSync project, available at the following link: [DanceSync Documentation](https://missgomezzz.github.io/dancesync.github.io/). 
 
 **Authors:**
 
@@ -13,6 +11,6 @@ Available at the following link: [DanceSync Documentation](https://missgomezzz.g
 
 **Subject:** Software's architectures 
 
-**Last update:**September 2026 
+**Last update:** September 2026 
 
 --- 
