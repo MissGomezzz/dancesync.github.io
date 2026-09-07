@@ -1,6 +1,4 @@
-// Basado en el esquema oscuro oficial de Just the Docs,
-// con el acento cambiado de morado a la paleta del proyecto.
-
+// Fondo y estructura (igual al esquema oscuro oficial)
 $body-background-color: $grey-dk-300;
 $sidebar-color: $grey-dk-300;
 $border-color: $grey-dk-200;
@@ -9,13 +7,11 @@ $table-background-color: $grey-dk-250;
 $code-background-color: $grey-dk-250;
 $feedback-color: darken($body-background-color, 3%);
 
-// Colores de marca 
+// Texto y menú: tonos claros del propio tema, para asegurar legibilidad
+$body-text-color: $grey-dk-000;
+$body-heading-color: $grey-lt-000;
+$nav-child-link-color: $grey-dk-000;
+
+// Colores de marca (tal cual los diste, sin tocar)
 $link-color: #0e3c4b;
 $btn-primary-color: #791012;
-
-// Variantes derivadas para que se lean bien sobre fondo oscuro
-$link-color-hover: lighten($link-color, 25%);       // links más claros al pasar el mouse
-$nav-child-link-color: lighten($link-color, 45%);    // texto de los links del sidebar, legible sobre fondo oscuro
-$nav-active-bg: rgba($link-color, 0.35);              // fondo del ítem activo/seleccionado en el sidebar
-$btn-primary-hover: lighten($btn-primary-color, 12%); // botón más claro al pasar el mouse
-$search-result-icon-color: $link-color-hover;
