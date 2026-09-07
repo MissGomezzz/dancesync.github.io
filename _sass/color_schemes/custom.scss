@@ -1,5 +1,5 @@
 // Basado en el esquema oscuro oficial de Just the Docs,
-// con el acento cambiado de morado a un verde-azulado.
+// con el acento cambiado de morado a la paleta del proyecto.
 
 $body-background-color: $grey-dk-300;
 $sidebar-color: $grey-dk-300;
@@ -9,6 +9,13 @@ $table-background-color: $grey-dk-250;
 $code-background-color: $grey-dk-250;
 $feedback-color: darken($body-background-color, 3%);
 
-// 👇 Este es el que cambia el color de acento (links, botones, hover del sidebar)
+// Colores de marca 
 $link-color: #0e3c4b;
 $btn-primary-color: #791012;
+
+// Variantes derivadas para que se lean bien sobre fondo oscuro
+$link-color-hover: lighten($link-color, 25%);       // links más claros al pasar el mouse
+$nav-child-link-color: lighten($link-color, 45%);    // texto de los links del sidebar, legible sobre fondo oscuro
+$nav-active-bg: rgba($link-color, 0.35);              // fondo del ítem activo/seleccionado en el sidebar
+$btn-primary-hover: lighten($btn-primary-color, 12%); // botón más claro al pasar el mouse
+$search-result-icon-color: $link-color-hover;
