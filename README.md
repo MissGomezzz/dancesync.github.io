@@ -1,5 +1,5 @@
 # DanceSync
-Especificaciones del proyecto DanceSyn, disponible en el siguiente link. [Documentación DanceSync](https://missgomezzz.github.io/dancesync.github.io/). 
+Especificaciones del proyecto DanceSync, disponible en el siguiente link. [Documentación DanceSync](https://missgomezzz.github.io/dancesync.github.io/). 
 
 **Autores:**
 
