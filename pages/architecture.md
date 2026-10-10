@@ -10,7 +10,7 @@ DanceSync separa la interfaz, la comunicación en tiempo real y la gestión de u
 
 ## Arquitectura general
 
-![Arquitectura general de DanceSync](/img/arquitecture-diagram-mermaid.png)
+![Arquitectura general de DanceSync](../img/arquitecture-diagram-mermaid.png)
 
 ### Componentes principales
 
@@ -30,19 +30,19 @@ DanceSync está organizado en tres microservicios, cada uno con responsabilidade
 
 ### 1. API Gateway
 
-![Diagrama del API Gateway](/img/api-gateway-cd.png)
+![Diagrama del API Gateway](../img/api-gateway-cd.png)
 
 El API Gateway actúa como punto de entrada del sistema. Centraliza el enrutamiento de las peticiones HTTP y las conexiones WebSocket hacia los servicios correspondientes, además de gestionar la configuración de comunicación y CORS.
 
 ### 2. Users Service
 
-![Diagrama de clases de Users Service](/img/users-service-cd.png)
+![Diagrama de clases de Users Service](../img/users-service-cd.png)
 
 El servicio de usuarios gestiona los perfiles y el historial de partidas. Sus clases permiten organizar la lógica de negocio, el acceso a los datos y la persistencia de la información en PostgreSQL.
 
 ### 3. Battle Service
 
-![Diagrama de clases de Battle Service](/img/battle-service-cd.png)
+![Diagrama de clases de Battle Service](../img/battle-service-cd.png)
 
 El servicio de batallas gestiona las salas, los participantes y el estado de las partidas en tiempo real. También coordina el chat, las votaciones, la puntuación y los retos de Word Race. El estado activo de las batallas se mantiene en memoria, mientras que los resultados finalizados se envían al servicio de usuarios para su persistencia.
 
