@@ -1,21 +1,37 @@
 ---
+
 title: Inicio
 layout: home
 nav_order: 1
----
+------------
 
 # DanceSync
 
-Una descripción breve de una o dos líneas sobre qué hace el proyecto y para quién es.
+**Baila, compite y comparte en tiempo real.**
 
-![Portada del proyecto](img/portada.png)
+DanceSync es una plataforma web de batallas de baile multijugador inspirada en *Just Dance*. Los usuarios se reúnen en salas, compiten con sus cámaras activas y participan en una experiencia compartida con votaciones, chat y clasificación en vivo.
 
-## ¿Qué es esto?
+## ¿Cómo funciona?
 
-Aquí va una explicación más completa del propósito del proyecto: qué problema resuelve,
-por qué existe, y qué lo hace diferente.
+* **Salas multijugador:** hasta 7 usuarios pueden reunirse en una sala y elegir entre bailar o ser espectadores.
+* **Batallas interactivas:** los bailarines compiten mientras los espectadores votan por su favorito.
+* **Retos en tiempo real:** los bailarines pueden competir en rondas de escritura de palabras durante la batalla.
+* **Puntuación en vivo:** los votos y los retos ganados actualizan la clasificación.
+* **Resultados persistentes:** las batallas finalizadas se guardan para consultar sus resultados.
 
-## Explora la documentación
+## ¿Qué hace interesante a DanceSync?
 
-Usa el menú de la izquierda para navegar entre las secciones: cómo instalarlo, cómo usarlo,
-y cómo está construido por dentro.
+El reto no es solo reproducir una experiencia de baile en el navegador: varios clientes deben observar el mismo estado de la partida, recibir eventos oportunamente y mantener resultados consistentes aunque sus acciones ocurran simultáneamente.
+
+**Explora la documentación:** conoce la arquitectura, el funcionamiento del núcleo de la plataforma y los desafíos de concurrencia y comunicación en tiempo real.
+
+
+## Autores
+- Juan Pablo Vega
+- Samuel Felipe Castelblanco 
+- Sebastián Aurela
+- Ángela Sofía Gómez Valencia 
+
+**Arquitecturas de Software - Octubre 2026**
+
+---
