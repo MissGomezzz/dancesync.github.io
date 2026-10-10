@@ -1,7 +1,6 @@
 ---
 
 title: Inicio
-layout: home
 nav_order: 1
 ---
 
@@ -33,5 +32,3 @@ El reto no es solo reproducir una experiencia de baile en el navegador: varios c
 - Ángela Sofía Gómez Valencia 
 
 **Arquitecturas de Software - Octubre 2026**
-
----
