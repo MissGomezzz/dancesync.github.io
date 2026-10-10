@@ -2,7 +2,7 @@
 
 title: Uso
 nav_order: 3
-------------
+---
 
 # ¿Cómo se usa DanceSync?
 

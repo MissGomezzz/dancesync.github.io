@@ -2,7 +2,7 @@
 
 title: Arquitectura
 nav_order: 4
-------------
+---
 
 # Arquitectura
 
