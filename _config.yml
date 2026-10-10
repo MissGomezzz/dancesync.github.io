@@ -1,8 +1,12 @@
+
 title: DanceSync
 description: Documentación del proyecto DanceSync
+
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
 
+baseurl: "/dancesync.github.io"
 color_scheme: dark
+logo: "/img/logo.png"
