@@ -7,5 +7,4 @@ plugins:
   - jekyll-remote-theme
 
 baseurl: "/dancesync.github.io"
-color_scheme: dark
-logo: "/img/logo.png"
+color_scheme: dancesync

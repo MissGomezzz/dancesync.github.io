@@ -4,6 +4,14 @@ title: Inicio
 nav_order: 1
 ---
 
+<p align="center">
+  <img
+    src="{{ '/img/logo.png' | relative_url }}"
+    alt="Logo de DanceSync"
+    width="280"
+  >
+</p>
+
 # DanceSync
 
 **Baila, compite y comparte en tiempo real.**
