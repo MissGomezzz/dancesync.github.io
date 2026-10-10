@@ -1,5 +1,5 @@
 # DanceSync
-Especificaciones del proyecto DanceSyn, disponible en el siguiente link. [DanceSync Documentation](https://missgomezzz.github.io/dancesync.github.io/). 
+Especificaciones del proyecto DanceSyn, disponible en el siguiente link. [Documentación DanceSync](https://missgomezzz.github.io/dancesync.github.io/). 
 
 **Autores:**
 
@@ -8,8 +8,8 @@ Especificaciones del proyecto DanceSyn, disponible en el siguiente link. [DanceS
 - Juan Pablo Vega
 - Ángela Gómez
 
-**Clase:** Software's architectures 
+**Clase:** Arquitecturas de Software
 
-**Última actualización:** September 2026 
+**Última actualización:** Octubre 2026 
 
 --- 
