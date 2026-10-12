@@ -6,7 +6,7 @@ nav_order: 6
 
 # Historias de usuario del MVP
 
-Este documento reúne las épicas, funcionalidades e historias de usuario identificadas para el **MVP de DanceSync** en el Story Mapping. Se excluyen las historias ubicadas en **Release 2** y **Release 3**.
+A continuación se muestran las épicas, funcionalidades e historias de usuario identificadas para el **MVP de DanceSync** en el Story Mapping. Por el momento se excluyen las historias ubicadas en **Release 2** y **Release 3**.
 
 ## Épicas
 
@@ -53,7 +53,7 @@ Este documento reúne las épicas, funcionalidades e historias de usuario identi
 
 ## Historias de usuario del MVP
 
-| HU | Historia de usuario | Funcionalidad asociada | Épica asociada |
+| HU | Historia de usuario | Feature asociada | Épica asociada |
 |---|---|---|---|
 | HU-01 | Como jugador, quiero hacer el login de mi cuenta para poder seguir con el registro de mis puntuaciones. | Login de usuarios | Gestionar los usuarios |
 | HU-02 | Como jugador, quiero tener una nueva sala virtual para poder unirme a ella y jugar con otros jugadores que se unan a ella. | Crear una sala virtual | Gestionar la sala de juego |
@@ -82,4 +82,3 @@ Este documento reúne las épicas, funcionalidades e historias de usuario identi
 
 Las funcionalidades **Crear una cuenta** y **Gestión de resultados de jugadores** aparecen en el mapa de funcionalidades, pero no tienen una historia de usuario para este MVP. 
 
----
